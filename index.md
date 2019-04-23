@@ -9,7 +9,7 @@ This is a project run by group Interconnect at KTH.
 - Djiar
 - Hamed
 - Natan
-- Omid Hazara
+- Omid
 
 Room 303
 ```
