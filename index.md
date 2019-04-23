@@ -23,6 +23,26 @@ This is a project run by group Interconnect at KTH.
 
 **Sprint 1**
 
+List of stories (Sprint Backlog):
+
+Introduction to workspace
+Player movements
+Tracking mouse
+Lighting with unity
+(RESET ID=07)
+
+**Sprint goal:**
+
+We have a player that moves and shines.
+
+**Demo date:**
+
+Monday 29/4 in Sal B
+
+**Daily Scrums:**
+
+8:15 at 303 
+
 
 
 **Sprint 2**
