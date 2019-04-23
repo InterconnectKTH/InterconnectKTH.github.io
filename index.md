@@ -1,5 +1,9 @@
 # Welcome to the info page for the 2D game "Into the light"
 
+## Our product
+Into the light is a 2D platform game where the character has a flashlight and only the parts of the environment hit by the light are visible to the player. The goal is to complete the map while avoiding traps. The challenge is the fact that the whole map, aside from the objects hit by the light, is completely dark.
+
+
 This is a project run by group Interconnect at KTH.
 
 ## Members:
