@@ -8,11 +8,11 @@ This is a project run by group Interconnect at KTH.
 
 ## Members:
 ```
-- Amar
-- David
-- Djiar
-- Hamed
-- Natan (Product Owner)
+- Amar Hodzic
+- David Ryan
+- Djiar Salim
+- Hamed Khavari
+- Natan Teferi Asegehegn (Product Owner)
 - Omid Hazara (Scrum Master)
 
 
