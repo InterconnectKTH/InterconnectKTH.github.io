@@ -15,8 +15,10 @@ This is a project run by group Interconnect at KTH.
 - Natan Teferi Asegehegn (Product Owner)
 - Omid Hazara (Scrum Master)
 
-```
 ### You can reach us on : interconnectKTH@gmail.com
+
+```
+
 
 ### Sprints
 
