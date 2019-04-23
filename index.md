@@ -11,6 +11,7 @@ This is a project run by group Interconnect at KTH.
 - Natan
 - Omid Hazara (Scrum Master)
 
+
 Room 303
 ```
 
