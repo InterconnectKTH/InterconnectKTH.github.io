@@ -25,11 +25,11 @@ This is a project run by group Interconnect at KTH.
 
 List of stories (Sprint Backlog):
 
-Introduction to workspace
-Player movements
-Tracking mouse
-Lighting with unity
-(RESET ID=07)
+- Introduction to workspace
+- Player movements
+- Tracking mouse
+- Lighting with unity
+- (Reset ID 07)
 
 **Sprint goal:**
 
