@@ -8,8 +8,8 @@ This is a project run by group Interconnect at KTH.
 - David
 - Djiar
 - Hamed
-- Natan
-- Omid
+- Natan (Product owner)
+- Omid (Scrum Master)
 
 Room 303
 ```
