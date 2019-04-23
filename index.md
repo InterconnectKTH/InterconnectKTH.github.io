@@ -45,10 +45,5 @@ Monday 29/4 in Sal B
 
 
 
-**Sprint 2**
-
-**Sprint 3**
-
-**Sprint 4**
 
 
