@@ -29,7 +29,6 @@ List of stories (Sprint Backlog):
 - Player movements
 - Tracking mouse
 - Lighting with unity
-- (Reset ID 07)
 
 **Sprint goal:**
 
