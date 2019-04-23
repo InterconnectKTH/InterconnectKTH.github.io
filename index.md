@@ -1,4 +1,5 @@
 # Welcome to the info page for the 2D game "Into the light"
+![Image](https://www.mediafire.com/view/i7z9j9id4w0pbrr/Ska%u0308rmavbild_2019-04-23_kl._10.39.56.png/file)
 
 ## Our product
 Into the light is a 2D platform game where the character has a flashlight and only the parts of the environment hit by the light are visible to the player. The goal is to complete the map while avoiding traps. The challenge is the fact that the whole map, aside from the objects hit by the light, is completely dark.
