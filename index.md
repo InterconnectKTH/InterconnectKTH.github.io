@@ -18,6 +18,7 @@ This is a project run by group Interconnect at KTH.
 
 Room 303
 ```
+### You can reach us on : interconnectKTH@gmail.com
 
 ### Sprints
 
