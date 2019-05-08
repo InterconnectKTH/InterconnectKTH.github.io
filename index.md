@@ -43,6 +43,31 @@ Monday 29/4 in Sal B
 8:15 at 303 
 
 
+**Sprint 2**
+
+**Spring goal:**
+We have an updated player figure with animations. The playground has our own graphics and music & our own texture design.
+
+**Sprint planning for second sprint:**
+
+**List of stories:**
+Static graphics for level design
+Functioning Arm to respond to mouse
+Graphics and animation for traps 
+Background Music
+Player animation/controller and refined PlayerMovement script
+
+**Stories we actually did:**
+Static graphics for level design
+Functioning Arm to respond to mouse
+Graphics and animation for traps
+Background Music
+Player animation/controller and refined PlayerMovement script
+
+**Demo date:**
+
+Monday 8/5 in Sal A
+
 
 
 
