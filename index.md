@@ -46,23 +46,26 @@ Monday 29/4 in Sal B
 **Sprint 2**
 
 **Spring goal:**
+
 We have an updated player figure with animations. The playground has our own graphics and music & our own texture design.
 
 **Sprint planning for second sprint:**
 
 **List of stories:**
-Static graphics for level design
-Functioning Arm to respond to mouse
-Graphics and animation for traps 
-Background Music
-Player animation/controller and refined PlayerMovement script
+
+- Static graphics for level design
+- Functioning Arm to respond to mouse
+- Graphics and animation for traps 
+- Background Music
+- Player animation/controller and refined PlayerMovement script
 
 **Stories we actually did:**
-Static graphics for level design
-Functioning Arm to respond to mouse
-Graphics and animation for traps
-Background Music
-Player animation/controller and refined PlayerMovement script
+
+- Static graphics for level design
+- Functioning Arm to respond to mouse
+- Graphics and animation for traps
+- Background Music
+- Player animation/controller and refined PlayerMovement script
 
 **Demo date:**
 
@@ -79,13 +82,13 @@ Create proper levels with improved visuals & sound effects
 
 **List of stories:**
 
-Static graphics for level design
-Deathwall animation
-Integrating the flashlight to the arm 
-Background Music
-Sound Effects
-Finish line
-Menu
+- Static graphics for level design
+- Deathwall animation
+- Integrating the flashlight to the arm 
+- Background Music
+- Sound Effects
+- Finish line
+- Menu
 
 **Stories we actually did:**
 
