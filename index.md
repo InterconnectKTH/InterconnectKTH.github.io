@@ -69,5 +69,29 @@ Player animation/controller and refined PlayerMovement script
 Monday 8/5 in Sal A
 
 
+**Sprint 3**
+
+**Spring goal:**
+
+Create proper levels with improved visuals & sound effects
+
+**Sprint planning for thrid sprint:**
+
+**List of stories:**
+
+Static graphics for level design
+Deathwall animation
+Integrating the flashlight to the arm 
+Background Music
+Sound Effects
+Finish line
+Menu
+
+**Stories we actually did:**
+
+
+**Demo date:**
+
+Monday 15/5 in Sal 
 
 
