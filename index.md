@@ -7,6 +7,8 @@ Into the light is a 2D platform game where the character has a flashlight and on
 
 This is a project run by group Interconnect at KTH Kista.
 
+## You can play the game using the link below:
+
 ## Members:
 ```
 - Amar Hodzic
