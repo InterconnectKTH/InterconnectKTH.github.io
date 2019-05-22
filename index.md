@@ -126,7 +126,7 @@ Creating graphical artworks and music for other themes, show how you died and ma
 - Level design
 - Background Music
 - How you died
-- Make "into the light" available for different platforms
+- Make "into the light" available for webbrowser/android
 
 **Demo date:**
 wednesday 22/5 2019 in hall B
