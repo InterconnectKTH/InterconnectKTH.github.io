@@ -9,7 +9,7 @@ This is a project run by group Interconnect at KTH Kista.
 
 ## You can play the game using the link below:
 
-https://djikosal.github.io/
+[a link](https://djikosal.github.io/)
 
 ## Members:
 ```
